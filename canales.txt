@@ -69,8 +69,6 @@ TCM HD,ES 4k- TCM
 Telecinco HD,ES 4k- Telecinco
 VinTV,ES 4k- VinTV
 XTRM,ES 4k- XTRM
-
-
 Nova,ES- Nova HD
 Nova,ES- Nova SD
 Energy,ES- Energy FHD
@@ -126,8 +124,6 @@ VinTV,ES- ENFAMILIA HD
 VinTV,ES- ENFAMILIA SD
 STAR Channel HD,ES- Fox Life FHD
 ,ES- Portada M+ (ES)
-
-
 ,Mundo Cofrade FHD (ES)
 M+ Cine Español,ES-  M Cine Español SD
 M+ Cine Español,ES- M Cine Español FHD
@@ -205,10 +201,6 @@ Sony One Éxitos,SonyOne Exitos (ES)
 Sony One Hits Acción,SonyOne Hits Accion (ES)
 Sony One Hits Comedia,SonyOne HitsComedia (ES)
 Sony One Series Thriller,SonyOne Series Thriller (ES)
-
-
-
-
 DAZN 1 HD,ES- DAZN 1 FHD
 DAZN 1 HD,ES- DAZN 1 HD
 DAZN 1 HD,ES- DAZN 1 SD
@@ -243,8 +235,6 @@ DAZN MotoGP,ES- DAZN MotoGP FHD  (M+)
 DAZN MotoGP,ES- DAZN MotoGP FHD (Orange)
 DAZN MotoGP,ES- DAZN MotoGP HD (M+)
 DAZN MotoGP,ES- DAZN MotoGP SD (M+)
-
-
 ,ES- M LA LIGA  10 FHD (Solo Eventos)
 ,ES- M LA LIGA  10 HD (Solo Eventos)
 ,ES- M LA LIGA  10 SD (Solo Eventos)
@@ -286,11 +276,6 @@ M+ LaLiga HDR,ES- M LA LIGA HDR (ES) (Orange)
 M+ LaLiga HD,ES- M LA LIGA SD
 M+ LaLiga HD,ES- M LA LIGA SD (backup 1)
 M+ LaLiga HD,ES- M LA LIGA SD (backup 2)
-
-
-
-
-
 M+ Liga de Campeones HD,ES- M L CAMPEONES  FHD
 M+ Liga de Campeones HD,ES- M L CAMPEONES  HD
 M+ Liga de Campeones HD,ES- M L CAMPEONES  SD
@@ -370,11 +355,6 @@ M+ Liga de Campeones 8,ES- M L CAMPEONES  8 SD (Solo Eventos)
 M+ Liga de Campeones 9,ES- M L CAMPEONES  9 FHD (Solo Eventos)
 M+ Liga de Campeones 9,ES- M L CAMPEONES  9 HD (Solo Eventos)
 M+ Liga de Campeones 9,ES- M L CAMPEONES  9 SD (Solo Eventos)
-
-
-
-
-
 VinTV,ES- VinTV SD
 VinTV,ES- VinTV FHD
 VinTV,ES- VinTV HD
@@ -417,10 +397,6 @@ SyFy HD,ES- SyFy SD
 TCM HD,ES- TCM FHD
 TCM HD,ES- TCM HD
 TCM HD,ES- TCM SD
-
-
-
-
 Eurosport 1 HD,ES-  Eurosport 1HD
 Eurosport 1 HD,ES- Eurosport 1 FHD
 Eurosport 1 HD,ES- Eurosport 1 SD
@@ -489,11 +465,6 @@ Real Madrid TV,ES- Real Madrid TV SD
 Red Bull TV,ES- Red Bull  TV
 ,ES- Sky Sport La Liga (ES)
 ,ES- Vix+ LaLiga (ES)
-
-
-
-
-
 Baby TV,ES- Baby TV FHD
 Baby TV,ES- Baby TV HD
 Boing,ES- Boing FHD
@@ -529,16 +500,6 @@ DAZN Baloncesto 3,DAZN Baloncesto 3 SD (ES)
 DAZN Baloncesto,DAZN Baloncesto FHD (ES)
 DAZN Baloncesto,DAZN Baloncesto FHD (Orange) (ES)
 DAZN Baloncesto,DAZN Baloncesto SD (ES)
-
-
-
-
-
-
-
-
-
-
 BBC Food,BBC FOOD FHD
 BBC Food,BBC FOOD HD
 BBC Food,BBC FOOD SD
@@ -615,8 +576,6 @@ Nautical Channel,ES- NAUTICAL CHANNEL SD
 Nat Geo Wild HD,ES- Nat Geo Wild FHD
 Nat Geo Wild HD,ES- Nat Geo Wild HD
 Nat Geo Wild HD,ES- Nat Geo Wild SD
-
-
 LaLiga TV Hypermotion HD,ES- M L HYPERMOTION FHD
 LaLiga TV Hypermotion HD,ES- M L HYPERMOTION HD
 LaLiga TV Hypermotion HD,ES- M L HYPERMOTION SD
