@@ -1,0 +1,862 @@
+##### NEXON ####
+24 Horas,ES 4k- 24 Horas
+Atreseries,ES 4k- M A3SERIES
+AMC HD,ES 4k- AMC
+AMC Break,ES 4k- AMC BREAK
+AMC Crime,ES 4k- AMC CRIME
+AMC Living,ES 4k- AMC Living
+AXN HD,ES 4k- AXN
+AXN Movies HD,ES 4k- AXN Movies
+Antena 3 HD,ES 4k- Antena 3
+Aragón TV,ES 4k- Aragon TV
+Be Mad,ES 4k- BE MAD
+Baby TV,ES 4k- Baby TV
+Boing,ES 4k- Boing
+Cazavisión,ES 4k- CAZAVISION
+Calle 13 HD,ES 4k- Calle 13
+Canal Cocina,ES 4k- Canal Cocina
+Odisea,ES 4k- Canal Odisea
+Canal Sur Andalucía,ES 4k- Canal Sur A
+Caza y Pesca HD,ES 4k- Caza y Pesca
+Clan,ES 4k- Clan Tve
+Comedy Central HD,ES 4k- Comedy Central
+Cosmo HD,ES 4k- Cosmo
+Cuatro HD,ES 4k- Cuatro
+DKISS,ES 4k- DKiss
+DMAX,ES 4k- DMAX
+Discovery,ES 4k- Discovery
+Divinity,ES 4k- Divinty
+Energy,ES 4k- Energy
+Factoría de Ficción,ES 4k- FDF
+Gametoon,ES 4k- Gametoon
+Horse TV,ES 4k- HORSE TV
+Historia,ES 4k- Historia
+Canal Hollywood HD,ES 4k- Hollywood
+Iberalia TV,ES 4k- Iberalia TV
+Iberalia caza,ES 4k- IBERALIA 100% CAZA
+La 1 HD,ES 4k- LA 1
+La 2,ES 4k- LA 2
+La Sexta HD,ES 4k- LA Sexta
+M+ Acción HD,ES 4k- M Accion
+BOM Cine,ES 4k- M BOM CINE
+M+ Cine Español,ES 4k- M Cine Español
+M+ Clásicos HD,ES 4k- M Clasicos
+M+ Comedia HD,ES 4k- M Comedia
+DARK,ES 4k- M DARK
+M+ Documentales HD,ES 4k- M DOCUMENTALES
+M+ Drama HD,ES 4k- M Drama
+M+ Estrenos HD,ES 4k- M Estrenos
+M+ Indie HD,ES 4k- M INDIE
+M+ Originales HD,ES 4k- M Originales
+M+ Series,ES 4k- M Series
+,ES 4k- M La Resistencia
+Warner TV HD,ES 4k- M WB tv
+Mega,ES 4k- MEGA
+MTV España,ES 4k- MTV
+Mezzo,ES 4k- Mezzo
+National Geographic HD,ES 4k- NAT GEO
+Nat Geo Wild HD,ES 4k- Nat Geo Wild
+Neox,ES 4k- Neox
+Nick JR,ES 4k- Nick Junior
+Nickelodeon HD,ES 4k- Nickelodeon
+Nova,ES 4k- Nova
+Somos,ES 4k- SOMOS
+STAR Channel HD,ES 4k- STAR CHANNEL
+Squirrel TV,ES 4k- Squirrel
+Squirrel 2,ES 4k- Squirrel 2
+SyFy HD,ES 4k- SyFy
+TCM HD,ES 4k- TCM
+Telecinco HD,ES 4k- Telecinco
+VinTV,ES 4k- VinTV
+XTRM,ES 4k- XTRM
+
+
+Nova,ES- Nova HD
+Nova,ES- Nova SD
+Energy,ES- Energy FHD
+Energy,ES- Energy HD
+Energy,ES- Energy SD
+Divinity,ES- Divinty FHD
+Divinity,ES- Divinity HD
+Divinity,ES- Divinity SD
+Factoría de Ficción,ES- FDF FHD
+Factoría de Ficción,ES- FDF HD
+Factoría de Ficción,ES- FDF SD
+La 1 HD,ES- La 1 FHD
+La 1 HD,ES- La 1 HD
+La 1 HD,ES- La 1 SD
+La 2,ES- La 2 FHD
+La 2,ES- La 2 HD
+La 2,ES- La 2 SD
+La Sexta HD,ES- LA Sexta FHD
+La Sexta HD,ES- La Sexta HD
+La Sexta HD,ES- La Sexta SD
+Telecinco HD,ES- Telecinco FHD
+Telecinco HD,ES- Telecinco HD
+Telecinco HD,ES- Telecinco SD
+Cuatro HD,ES- Cuatro FHD
+Cuatro HD,ES- Cuatro HD
+Cuatro HD,ES- Cuatro SD
+Antena 3 HD,ES- Antena 3 FHD
+Antena 3 HD,ES- Antena 3 HD
+Antena 3 HD,ES- Antena 3 SD
+Aragón TV,ES- Aragon TV FHD
+Aragón TV,ES- Aragon TV HD
+Aragón TV,ES- Aragon TV SD
+Canal Sur Andalucía,ES- Canal Sur A FHD
+Canal Sur Andalucía,ES- Canal Sur A HD
+Canal Sur Andalucía,ES- Canal Sur A SD
+Clan,ES- Clan Tve FHD
+Clan,ES- Clan Tve HD
+Clan,ES- Clan Tve SD
+MTV España,ES- MTV FHD
+MTV España,ES- MTV HD
+MTV España,ES- MTV SD
+Mezzo,ES- Mezzo FHD
+Mezzo,ES- Mezzo HD
+Mezzo,ES- Mezzo SD
+Neox,ES- Neox FHD
+Neox,ES- Neox HD
+Neox,ES- Neox SD
+24 Horas,ES- 24 Horas FHD
+24 Horas,ES- 24 Horas HD
+24 Horas,ES- 24 Horas SD
+VinTV,ES- ENFAMILIA FHD
+VinTV,ES- ENFAMILIA HD
+VinTV,ES- ENFAMILIA SD
+STAR Channel HD,ES- Fox Life FHD
+,ES- Portada M+ (ES)
+
+
+,Mundo Cofrade FHD (ES)
+M+ Cine Español,ES-  M Cine Español SD
+M+ Cine Español,ES- M Cine Español FHD
+M+ Cine Español,ES- M Cine Español HD
+Somos,ES- SOMOS FHD
+Somos,ES- SOMOS HD
+Somos,ES-  SOMOS SD
+BBC Series,ES- BBC Drama FHD
+BBC Series,ES- BBC Drama HD
+BBC Series,ES- BBC Drama SD
+Atreseries,ES- M A3SERIES FHD
+Atreseries,ES- M A3SERIES HD
+Atreseries,ES- M A3SERIES SD
+M+ Acción HD,ES- M Accion FHD
+M+ Acción HD,ES- M Accion HD
+M+ Acción HD,ES- M Accion SD
+BOM Cine,ES- M BOM CINE FHD
+BOM Cine,ES- M BOM CINE HD
+BOM Cine,ES- M BOM CINE SD
+M+ Cine Español,ES- M Cine Español FHD
+M+ Cine Español,ES- M Cine Español HD
+M+ Clásicos HD,ES- M Clasicos FHD
+M+ Clásicos HD,ES- M Clasicos HD
+M+ Clásicos HD,ES- M Clasicos SD
+M+ Comedia HD,ES- M Comedia FHD
+M+ Comedia HD,ES- M Comedia HD
+M+ Comedia HD,ES- M Comedia SD
+DARK,ES- M DARK FHD
+DARK,ES- M DARK HD
+DARK,ES- M DARK SD
+M+ Drama HD,ES- M Drama FHD
+M+ Drama HD,ES- M Drama HD
+M+ Drama HD,ES- M Drama SD
+M+ Estrenos HD,ES- M Estrenos FHD
+M+ Estrenos HD,ES- M Estrenos HD
+M+ Estrenos HD,ES- M Estrenos SD
+M+ Indie HD,ES- M INDIE FHD
+M+ Indie HD,ES- M INDIE HD
+M+ Indie HD,ES- M INDIE SD
+,ES- M La Resistencia FHD
+,ES- M La Resistencia HD
+,ES- M La Resistencia SD
+Movistar Plus+ HD,ES- M Movistar+ FHD
+Movistar Plus+ HD,ES- M Movistar+ HD
+Movistar Plus+ HD,ES- M Movistar+  SD
+M+ Originales HD,ES- M Originales FHD
+M+ Originales HD,ES- M Originales HD
+M+ Originales HD,ES- M Originales SD
+M+ Top Comedia Española,ES- M POPUP 2 FHD
+M+ Top Comedia Española,ES- M POPUP 2 HD
+M+ Top Comedia Española,ES- M POPUP 2 SD
+M+ Los 2000,ES- M POPUP FHD
+M+ Los 2000,ES- M POPUP HD
+M+ Top Comedia Española,ES- M POPUP SD
+SkyShowtime,ES- M SKY SHOWTIME 1 FHD
+SkyShowtime,ES- M SKY SHOWTIME 1 HD
+SkyShowtime,ES- M SKY SHOWTIME 1 SD
+,ES- M+ MUSICALES FHD
+,ES- M+ MUSICALES HD
+,ES- M+ MUSICALES SD
+M+ Top Comedia Española,ES- M+ THRILLER FHD
+M+ Top Comedia Española,ES- M+ THRILLER HD
+M+ Top Comedia Española,ES- M+ THRILLER SD
+Squirrel 2,ES- Paramount FHD
+Squirrel 2,ES- Paramount HD
+Squirrel 2,ES- Paramount SD
+Sundance TV,ES- Sundance TV FHD
+Sundance TV,ES- Sundance TV HD
+Sundance TV,ES- Sundance TV SD
+XTRM,ES- XTRM FHD
+XTRM,ES- XTRM HD
+XTRM,ES- XTRM SD
+Sony One The Blacklist,SonyOne Blacklist (ES)
+Sony One Éxitos,SonyOne Exitos (ES)
+Sony One Hits Acción,SonyOne Hits Accion (ES)
+Sony One Hits Comedia,SonyOne HitsComedia (ES)
+Sony One Series Thriller,SonyOne Series Thriller (ES)
+
+
+
+
+DAZN 1 HD,ES- DAZN 1 FHD
+DAZN 1 HD,ES- DAZN 1 HD
+DAZN 1 HD,ES- DAZN 1 SD
+DAZN 1 BAR,ES- DAZN 1 LIGA FHD
+DAZN 1 BAR,ES- DAZN 1 LIGA FHD (backup 1)
+DAZN 1 BAR,ES- DAZN 1 LIGA FHD (backup 2)
+DAZN 1 BAR,ES- DAZN 1 LIGA HD
+DAZN 1 BAR,ES- DAZN 1 LIGA HD (backup 1)
+DAZN 1 BAR,ES- DAZN 1 LIGA HD (backup 2)
+DAZN 1 BAR,ES- DAZN 1 LIGA SD
+DAZN 1 BAR,ES- DAZN 1 LIGA SD (backup 1)
+DAZN 1 BAR,ES- DAZN 1 LIGA SD (backup 2)
+DAZN 2 HD,ES- DAZN 2 FHD
+DAZN 2 HD,ES- DAZN 2 HD
+DAZN 2 HD,ES- DAZN 2 SD
+DAZN 2 BAR,ES- DAZN 2 LIGA FHD
+DAZN 2 BAR,ES- DAZN 2 LIGA HD
+DAZN 2 BAR,ES- DAZN 2 LIGA SD
+DAZN 3 HD,ES- DAZN 3 FHD
+DAZN 3 HD,ES- DAZN 3 HD
+DAZN 3 HD,ES- DAZN 3 LIGA
+DAZN 3 HD,ES- DAZN 3 SD
+DAZN 4 HD,ES- DAZN 4 FHD
+DAZN 4 HD,ES- DAZN 4 HD
+DAZN 4 HD,ES- DAZN 4 LIGA
+DAZN 4 HD,ES- DAZN 4 SD
+,ES- DAZN 5 LIGA
+DAZN F1 HD,ES- DAZN F1 FHD
+DAZN F1 HD,ES- DAZN F1 HD
+DAZN F1 HD,ES- DAZN F1 SD
+DAZN MotoGP,ES- DAZN MotoGP FHD  (M+)
+DAZN MotoGP,ES- DAZN MotoGP FHD (Orange)
+DAZN MotoGP,ES- DAZN MotoGP HD (M+)
+DAZN MotoGP,ES- DAZN MotoGP SD (M+)
+
+
+,ES- M LA LIGA  10 FHD (Solo Eventos)
+,ES- M LA LIGA  10 HD (Solo Eventos)
+,ES- M LA LIGA  10 SD (Solo Eventos)
+M+ LaLiga 2 HD,ES- M LA LIGA  2 FHD
+M+ LaLiga 2 HD,ES- M LA LIGA  2 HD
+M+ LaLiga 2 HD,ES- M LA LIGA  2 SD
+M+ LaLiga 4,ES- M LA LIGA  4 FHD (Solo Eventos)
+M+ LaLiga 4,ES- M LA LIGA  4 HD (Solo Eventos)
+M+ LaLiga 4,ES- M LA LIGA  4 SD (Solo Eventos)
+M+ LaLiga 5,ES- M LA LIGA  5 FHD (Solo Eventos)
+M+ LaLiga 5,ES- M LA LIGA  5 HD (Solo Eventos)
+M+ LaLiga 5,ES- M LA LIGA  5 SD (Solo Eventos)
+M+ LaLiga 6,ES- M LA LIGA  6 FHD (Solo Eventos)
+M+ LaLiga 6,ES- M LA LIGA  6 HD (Solo Eventos)
+M+ LaLiga 6,ES- M LA LIGA  6 SD (Solo Eventos)
+,ES- M LA LIGA  7 FHD (Solo Eventos)
+,ES- M LA LIGA  7 HD (Solo Eventos)
+,ES- M LA LIGA  7 SD (Solo Eventos)
+,ES- M LA LIGA  8 FHD(Solo Eventos)
+,ES- M LA LIGA  8 HD (Solo Eventos)
+,ES- M LA LIGA  8 SD (Solo Eventos)
+,ES- M LA LIGA  9 FHD (Solo Eventos)
+,ES- M LA LIGA  9 HD (Solo Eventos)
+,ES- M LA LIGA  9 SD (Solo Eventos)
+M+ LaLiga HD,ES- M LA LIGA  FHD Multiaudio
+M+ LaLiga HD,ES- M LA LIGA  SD Multiaudio
+M+ LaLiga 2 HDR,ES- M LA LIGA 2 HDR (ES) (Orange)
+M+ LaLiga 3 HD,ES- M LA LIGA 3 FHD (Solo Eventos)
+M+ LaLiga 3 HD,ES- M LA LIGA 3 HD (Solo Eventos)
+M+ LaLiga 3 HD,ES- M LA LIGA 3 SD (Solo Eventos)
+M+ LaLiga HD,ES- M LA LIGA FHD
+M+ LaLiga HD,ES- M LA LIGA FHD (backup 1)
+M+ LaLiga HD,ES- M LA LIGA FHD (backup 2)
+M+ LaLiga HD,ES- M LA LIGA HD
+M+ LaLiga HD,ES- M LA LIGA HD (backup 1)
+M+ LaLiga HD,ES- M LA LIGA HD (backup 2)
+M+ LaLiga HDR,ES- M LA LIGA HDR (ES)
+M+ LaLiga HDR,ES- M LA LIGA HDR (ES) (Orange)
+M+ LaLiga HD,ES- M LA LIGA SD
+M+ LaLiga HD,ES- M LA LIGA SD (backup 1)
+M+ LaLiga HD,ES- M LA LIGA SD (backup 2)
+
+
+
+
+
+M+ Liga de Campeones HD,ES- M L CAMPEONES  FHD
+M+ Liga de Campeones HD,ES- M L CAMPEONES  HD
+M+ Liga de Campeones HD,ES- M L CAMPEONES  SD
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 FHD
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 FHD (backup 1)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 FHD (backup 2)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 HD
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 HD (backup 1)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 HD (backup 2)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 SD
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 SD (backup 1)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 SD (backup 2)
+M+ Liga de Campeones 2 HDR,ES- M L CAMPEONES 2 HDR (ES) (Orange)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES 2 FHD Multiaudio
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES 2 SD Multiaudio
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD (backup 1)
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD (backup 2)
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD Multiaudio
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD Multiaudio Backup
+M+ Liga de Campeones HD,ES- M L CAMPEONES HD (backup 1)
+M+ Liga de Campeones HD,ES- M L CAMPEONES HD (backup 2)
+M+ Liga de Campeones HDR,ES- M L CAMPEONES HDR (ES) (Orange)
+M+ Liga de Campeones HD,ES- M L CAMPEONES SD (BACKUP 1)
+M+ Liga de Campeones HD,ES- M L CAMPEONES SD (BACKUP 2)
+M+ Liga de Campeones HD,ES- M L CAMPEONES SD Multiaudio
+,ES- M L CAMPEONES  10 FHD (Solo Eventos)
+,ES- M L CAMPEONES  10 HD (Solo Eventos)
+,ES- M L CAMPEONES  10 SD (Solo Eventos)
+,ES- M L CAMPEONES  11 FHD (Solo Eventos)
+,ES- M L CAMPEONES  11 HD (Solo Eventos)
+,ES- M L CAMPEONES  11 SD (Solo Eventos)
+,ES- M L CAMPEONES  12 FHD (Solo Eventos)
+,ES- M L CAMPEONES  12 HD (Solo Eventos)
+,ES- M L CAMPEONES  12 SD (Solo Eventos)
+,ES- M L CAMPEONES  13 FHD (Solo Eventos)
+,ES- M L CAMPEONES  13 HD (Solo Eventos)
+,ES- M L CAMPEONES  13 SD (Solo Eventos)
+,ES- M L CAMPEONES  14 FHD (Solo Eventos)
+,ES- M L CAMPEONES  14 HD (Solo Eventos)
+,ES- M L CAMPEONES  14 SD (Solo Eventos)
+,ES- M L CAMPEONES  15 FHD (Solo Eventos)
+,ES- M L CAMPEONES  15 HD (Solo Eventos)
+,ES- M L CAMPEONES  15 SD (Solo Eventos)
+,ES- M L CAMPEONES  16 FHD (Solo Eventos)
+,ES- M L CAMPEONES  16 HD (Solo Eventos)
+,ES- M L CAMPEONES  16 SD (Solo Eventos)
+,ES- M L CAMPEONES  17 FHD (Solo Eventos)
+,ES- M L CAMPEONES  17 HD (Solo Eventos)
+,ES- M L CAMPEONES  17 SD (Solo Eventos)
+,ES- M L CAMPEONES  18 FHD (Solo Eventos)
+,ES- M L CAMPEONES  18 HD (Solo Eventos)
+,ES- M L CAMPEONES  18 SD (Solo Eventos)
+,ES- M L CAMPEONES  19 FHD (Solo Eventos)
+,ES- M L CAMPEONES  19 HD (Solo Eventos)
+,ES- M L CAMPEONES  19 SD (Solo Eventos)
+,ES- M L CAMPEONES  20 FHD (Solo Eventos)
+,ES- M L CAMPEONES  20 HD (Solo Eventos)
+,ES- M L CAMPEONES  20 SD (Solo Eventos)
+M+ Liga de Campeones 3 HD,ES- M L CAMPEONES  3 FHD (Solo Eventos)
+M+ Liga de Campeones 3 HD,ES- M L CAMPEONES  3 HD (Solo Eventos)
+M+ Liga de Campeones 3 HD,ES- M L CAMPEONES  3 SD (Solo Eventos)
+M+ Liga de Campeones ,ES- M L CAMPEONES  4 FHD (Solo Eventos)
+M+ Liga de Campeones ,ES- M L CAMPEONES  4 HD (Solo Eventos)
+M+ Liga de Campeones ,ES- M L CAMPEONES  4 SD (Solo Eventos)
+M+ Liga de Campeones 5,ES- M L CAMPEONES  5 FHD (Solo Eventos)
+M+ Liga de Campeones 5,ES- M L CAMPEONES  5 HD (Solo Eventos)
+M+ Liga de Campeones 5,ES- M L CAMPEONES  5 SD (Solo Eventos)
+M+ Liga de Campeones 6,ES- M L CAMPEONES  6 FHD (Solo Eventos)
+M+ Liga de Campeones 6,ES- M L CAMPEONES  6 HD (Solo Eventos)
+M+ Liga de Campeones 6,ES- M L CAMPEONES  6 SD (Solo Eventos)
+M+ Liga de Campeones 7,ES- M L CAMPEONES  7 FHD (Solo Eventos)
+M+ Liga de Campeones 7,ES- M L CAMPEONES  7 HD (Solo Eventos)
+M+ Liga de Campeones 7,ES- M L CAMPEONES  7 SD (Solo Eventos)
+M+ Liga de Campeones 8,ES- M L CAMPEONES  8 FHD (Solo Eventos)
+M+ Liga de Campeones 8,ES- M L CAMPEONES  8 HD (Solo Eventos)
+M+ Liga de Campeones 8,ES- M L CAMPEONES  8 SD (Solo Eventos)
+M+ Liga de Campeones 9,ES- M L CAMPEONES  9 FHD (Solo Eventos)
+M+ Liga de Campeones 9,ES- M L CAMPEONES  9 HD (Solo Eventos)
+M+ Liga de Campeones 9,ES- M L CAMPEONES  9 SD (Solo Eventos)
+
+
+
+
+
+VinTV,ES- VinTV SD
+VinTV,ES- VinTV FHD
+VinTV,ES- VinTV HD
+AMC HD,ES- AMC FHD
+AMC HD,ES- AMC HD
+AMC HD,ES- AMC SD
+AXN HD,ES- AXN FHD
+AXN HD,ES- AXN HD
+AXN HD,ES- AXN SD
+AXN Movies HD,ES- AXN Movies FHD
+AXN Movies HD,ES- AXN Movies HD
+AXN Movies HD,ES- AXN Movies SD
+BBC Series,ES- BBC Series FHD
+BBC Series,ES- BBC Series HD
+BBC Series,ES- BBC Series SD
+Calle 13 HD,ES- Calle 13 FHD
+Calle 13 HD,ES- Calle 13 HD
+Calle 13 HD,ES- Calle 13 SD
+Comedy Central HD,ES- Comedy Central FHD
+Comedy Central HD,ES- Comedy Central HD
+Comedy Central HD,ES- Comedy Central SD
+Cosmo HD,ES- Cosmo FHD
+Cosmo HD,ES- Cosmo HD
+Cosmo HD,ES- Cosmo SD
+Canal Hollywood HD,ES- Hollywood FHD
+Canal Hollywood HD,ES- Hollywood HD
+Canal Hollywood HD,ES- Hollywood SD
+M+ Hits HD,ES- M Hits FHD
+M+ Hits HD,ES- M Hits HD
+M+ Hits HD,ES- M Hits SD
+Warner TV HD,ES- M WARNER TV FHD
+Warner TV HD,ES- M WARNER TV HD
+Warner TV HD,ES- M WARNER TV SD
+STAR Channel HD,ES- Star Channel FHD
+STAR Channel HD,ES- Star Channel HD
+STAR Channel HD,ES- Star Channel SD
+SyFy HD,ES- SyFy FHD
+SyFy HD,ES- SyFy HD
+SyFy HD,ES- SyFy SD
+TCM HD,ES- TCM FHD
+TCM HD,ES- TCM HD
+TCM HD,ES- TCM SD
+
+
+
+
+Eurosport 1 HD,ES-  Eurosport 1HD
+Eurosport 1 HD,ES- Eurosport 1 FHD
+Eurosport 1 HD,ES- Eurosport 1 SD
+Eurosport 2,ES- Eurosport 2 FHD
+Eurosport 2,ES- Eurosport 2 HD
+Eurosport 2,ES- Eurosport 2 SD
+Teledeporte,ES-  TELEDEPORTE FHD
+Teledeporte,ES-  TELEDEPORTE HD
+Teledeporte,ES- TELEDEPORTE SD
+M+ Vamos HD,ES- # Vamos FHD
+M+ Vamos HD,ES- # Vamos HD
+M+ Vamos HD,ES- # Vamos SD
+M+ Vamos 2,ES- Vamos 2 FHD
+M+ Vamos 2,ES- Vamos 2 HD
+M+ Vamos 2,ES- Vamos 2 SD
+GOL,ES- GOL PLAY FHD
+GOL,ES- GOL PLAY HD
+GOL,ES- GOL PLAY SD
+Betis TV,ES- Betis live
+Garage TV,ES- EL GARAGE TV
+Esport3 Catalunya,ES- ESPORT 3 CATALUNIA HD
+M+ Deportes HD,ES- M DEPORTES FHD
+M+ Deportes HD,ES- M DEPORTES FHD (backup)
+M+ Deportes HD,ES- M DEPORTES HD
+M+ Deportes HD,ES- M DEPORTES HD (backup)
+M+ Deportes HD,ES- M DEPORTES SD
+M+ Deportes HD,ES- M DEPORTES SD (backup)
+M+ Deportes 2 HD,ES- M  DEPORTES 2 FHD
+M+ Deportes 2 HD,ES- M DEPORTES 2 FHD (backup)
+M+ Deportes 2 HD,ES- M DEPORTES 2 HD
+M+ Deportes 2 HD,ES- M DEPORTES 2 HD (backup)
+M+ Deportes 2 HD,ES- M DEPORTES 2 SD
+M+ Deportes 2 HD,ES- M DEPORTES 2 SD (backup)
+M+ Deportes 3,ES- M DEPORTES 3 FHD
+M+ Deportes 3,ES- M DEPORTES 3 HD
+M+ Deportes 3,ES- M DEPORTES 3 SD
+M+ Deportes 4,ES- M DEPORTES 4  SD
+M+ Deportes 4,ES- M DEPORTES 4 FHD
+M+ Deportes 4,ES- M DEPORTES 4 HD
+M+ Deportes 5,ES- M DEPORTES 5  SD
+M+ Deportes 5,ES- M DEPORTES 5 FHD
+M+ Deportes 5,ES- M DEPORTES 5 HD
+M+ Deportes 6,ES- M DEPORTES 6 FHD
+M+ Deportes 6,ES- M DEPORTES 6 HD
+M+ Deportes 6,ES- M DEPORTES 6 SD
+M+ Deportes 7,ES- M DEPORTES 7 FHD
+M+ Deportes 7,ES- M DEPORTES 7 HD
+M+ Deportes 7,ES- M DEPORTES 7 SD
+M+ Vamos 3,ES- M Ellas #V FHD
+M+ Vamos 3,ES- M Ellas #V HD
+M+ Vamos 3,ES- M Ellas #V SD
+M+ Golf HD,ES- M Golf FHD
+M+ Golf HD,ES- M Golf HD
+M+ Golf HD,ES- M Golf SD
+M+ Golf 2 HD,ES- M Golf 2 FHD
+M+ Golf 2 HD,ES- M Golf 2 HD
+M+ Golf 2 HD,ES- M Golf 2 SD
+Moto ADV,ES- Moto ADV
+,ES- MotoAmerica
+DE | Motorvision TV,ES- Motor Vision
+,ES- MotorTrend
+,ES- Multideporte
+Real Madrid TV,ES- Real Madrid TV FHD
+Real Madrid TV,ES- Real Madrid TV HD
+Real Madrid TV,ES- Real Madrid TV SD
+Red Bull TV,ES- Red Bull  TV
+,ES- Sky Sport La Liga (ES)
+,ES- Vix+ LaLiga (ES)
+
+
+
+
+
+Baby TV,ES- Baby TV FHD
+Baby TV,ES- Baby TV HD
+Boing,ES- Boing FHD
+Boing,ES- Boing HD
+Clan,ES- CLAN HD
+Squirrel TV,ES- Disney Channel FHD
+Squirrel TV,ES- Disney Channel HD
+Disney Junior,ES- Disney Junior FHD
+Disney Junior,ES- Disney Junior HD
+Dreamworks HD,ES- Dreamworks FHD
+Dreamworks HD,ES- Dreamworks HD
+Dreamworks HD,ES- DREAMWORKS SD
+Nick JR,ES- Nick Junior FHD
+Nick JR,ES- Nick Junior HD
+Nickelodeon HD,ES- Nickelodeon FHD
+Nickelodeon HD,ES- Nickelodeon HD
+,DAZN ACB 1
+,DAZN ACB 10
+,DAZN ACB 2
+,DAZN ACB 3
+,DAZN ACB 4
+,DAZN ACB 5
+,DAZN ACB 6
+,DAZN ACB 7
+,DAZN ACB 8
+,DAZN ACB 9
+DAZN Baloncesto 2,DAZN Baloncesto 2 FHD (ES)
+DAZN Baloncesto 2,DAZN Baloncesto 2 FHD (Orange) (ES)
+DAZN Baloncesto 2,DAZN Baloncesto 2 SD (ES)
+DAZN Baloncesto 3,DAZN Baloncesto 3 FHD (ES)
+DAZN Baloncesto 3,DAZN Baloncesto 3 FHD (Orange) (ES)
+DAZN Baloncesto 3,DAZN Baloncesto 3 SD (ES)
+DAZN Baloncesto,DAZN Baloncesto FHD (ES)
+DAZN Baloncesto,DAZN Baloncesto FHD (Orange) (ES)
+DAZN Baloncesto,DAZN Baloncesto SD (ES)
+
+
+
+
+
+
+
+
+
+
+BBC Food,BBC FOOD FHD
+BBC Food,BBC FOOD HD
+BBC Food,BBC FOOD SD
+BBC History,BBC HISTORY SD
+BBC Top Gear,BBC TOP GEAR FHD
+BBC Top Gear,BBC TOP GEAR HD
+BBC Top Gear,BBC TOP GEAR SD
+AMC Break,ES- AMC BREAK FHD
+AMC Break,ES- AMC BREAK HD
+AMC Break,ES- AMC BREAK SD
+AMC Crime,ES- AMC CRIME FHD
+AMC Crime,ES- AMC CRIME HD
+AMC Crime,ES- AMC CRIME SD
+AMC Western,ES- AMC Western FHD
+AMC Western,ES- AMC Western HD
+AMC Western,ES- AMC Western SD
+Be Mad,ES- BE MAD FHD
+Be Mad,ES- BE MAD HD
+Be Mad,ES- BE MAD SD
+,ES- Blaze FHD
+,ES- Blaze HD
+,ES- Blaze SD
+Cazavisión,ES- CAZAVISION FHD
+Cazavisión,ES- CAZAVISION HD
+Cazavisión,ES- CAZAVISION SD
+Canal Cocina,ES- Canal Cocina FHD
+Canal Cocina,ES- Canal Cocina HD
+Canal Cocina,ES- Canal Cocina SD
+AMC Living,ES- Canal Decasa FHD
+AMC Living,ES- Canal Decasa HD
+AMC Living,ES- Canal Decasa SD
+Odisea,ES- Canal Odisea FHD
+Odisea,ES- Canal Odisea HD
+Odisea,ES- Canal Odisea SD
+Caza y Pesca HD,ES- Caza y Pesca  FHD
+Caza y Pesca HD,ES- Caza y Pesca  SD
+Caza y Pesca HD,ES- Caza y Pesca HD
+DKISS,ES- DKiss FHD
+DKISS,ES- DKiss HD
+DKISS,ES- DKiss SD
+DMAX,ES- DMAX FHD
+DMAX,ES- DMAX HD
+DMAX,ES- DMAX SD
+Discovery,ES- Discovery FHD
+Discovery,ES- Discovery HD
+Discovery,ES- Discovery SD
+Horse TV,ES- HORSE TV FHD
+Horse TV,ES- HORSE TV HD
+Horse TV,ES- HORSE TV SD
+Historia,ES- Historia FHD
+Historia,ES- Historia HD
+Historia,ES- Historia SD
+Iberalia caza,ES- IBERALIA 100% CAZA FHD
+Iberalia caza,ES- IBERALIA 100% CAZA HD
+Iberalia caza,ES-  IBERALIA 100% CAZA SD
+Iberalia pesca,ES- IBERALIA 100% PESCA FHD
+Iberalia pesca,ES- IBERALIA 100% PESCA HD
+Iberalia pesca,ES- IBERALIA 100% PESCA SD
+Iberalia TV,ES- Iberalia TV FHD
+Iberalia TV,ES- Iberalia TV HD
+Iberalia TV,ES- Iberalia TV SD
+M+ Documentales HD,ES- M DOCUMENTALES FHD
+M+ Documentales HD,ES- M DOCUMENTALES HD
+M+ Documentales HD,ES- M DOCUMENTALES SD
+Mega,ES- MEGA FHD
+Mega,ES- MEGA HD
+Mega,ES- MEGA SD
+National Geographic HD,ES- NAT GEO FHD
+National Geographic HD,ES- NAT GEO HD
+National Geographic HD,ES- NAT GEO SD
+Nautical Channel,ES- NAUTICAL CHANNEL FHD
+Nautical Channel,ES- NAUTICAL CHANNEL HD
+Nautical Channel,ES- NAUTICAL CHANNEL SD
+Nat Geo Wild HD,ES- Nat Geo Wild FHD
+Nat Geo Wild HD,ES- Nat Geo Wild HD
+Nat Geo Wild HD,ES- Nat Geo Wild SD
+
+
+LaLiga TV Hypermotion HD,ES- M L HYPERMOTION FHD
+LaLiga TV Hypermotion HD,ES- M L HYPERMOTION HD
+LaLiga TV Hypermotion HD,ES- M L HYPERMOTION SD
+LaLiga TV Hypermotion 2,ES- M L HYPERMOTION  2 SD
+LaLiga TV Hypermotion 3,ES- M L HYPERMOTION  3 SD
+,ES- M L HYPERMOTION  10 FHD
+,ES- M L HYPERMOTION  10 HD
+,ES- M L HYPERMOTION  10 SD
+,ES- M L HYPERMOTION 11 FHD
+,ES- M L HYPERMOTION 11 HD
+,ES- M L HYPERMOTION 11 SD
+,ES- M L HYPERMOTION 12 FHD
+,ES- M L HYPERMOTION 12 HD
+,ES- M L HYPERMOTION 12 SD
+LaLiga TV Hypermotion 2,ES- M L HYPERMOTION 2 FHD
+LaLiga TV Hypermotion 2,ES- M L HYPERMOTION 2 HD
+LaLiga TV Hypermotion 3,ES- M L HYPERMOTION 3 FHD
+LaLiga TV Hypermotion 3,ES- M L HYPERMOTION 3 HD
+,ES- M L HYPERMOTION 4
+,ES- M L HYPERMOTION 4 FHD
+,ES- M L HYPERMOTION 4 HD
+,ES- M L HYPERMOTION 5
+,ES- M L HYPERMOTION 5 FHD
+,ES- M L HYPERMOTION 5 HD
+,ES- M L HYPERMOTION 6 FHD
+,ES- M L HYPERMOTION 6 HD
+,ES- M L HYPERMOTION 6 SD
+,ES- M L HYPERMOTION 7 FHD
+,ES- M L HYPERMOTION 7 HD
+,ES- M L HYPERMOTION 7 SD
+,ES- M L HYPERMOTION 8 FHD
+,ES- M L HYPERMOTION 8 HD
+,ES- M L HYPERMOTION 8 SD
+,ES- M L HYPERMOTION 9 FHD
+,ES- M L HYPERMOTION 9 HD
+,ES- M L HYPERMOTION 9 SD
+Sol Música,ES- SOL MUSICA
+Sol Música,ES- Sol Mfasica
+,ES- ALL FLAMENCO
+,ES- CANAL DE LA MUSICA
+,ES- Cadena Elite
+,ES- Classica
+,ES- Hit TV
+,ES- MTV 00s
+Mezzo,ES- Mezzo FHD
+Mezzo,ES- Mezzo HD
+Mezzo Live HD,ES- Mezzo Live FHD
+Mezzo Live HD,ES- Mezzo Live HD
+Mezzo Live HD,ES- Mezzo Live SD
+Mezzo,ES- Mezzo SD
+,ES- Molahits TV
+,ES- Music Choice: Musica Urbana
+,ES- QUIERO MUSICA
+,ES- Telehit Musica
+,ES- Telehit Musica Plus
+,ES- VH1 Classic
+, Musica y Mas
+1+1 International,ES (O) 1+1 International
+24 Horas,ES (O) 24 horas
+AMC HD,ES (O) AMC
+AMC Break,ES (O) AMC BREAK
+AMC Crime,ES (O) AMC CRIME
+AMC Western,ES (O) AMC Western
+AXN HD,ES (O) AXN
+AXN Movies HD,ES (O) AXN Movies
+Al Jazeera English HD,ES (O) Al Jazeera
+,ES (O) AllFlamenco
+Antena 3 HD,ES (O) Antena 3 HD
+Atreseries,ES (O) Atreseries
+Be Mad,ES (O) Be Mad TV
+Boing,ES (O) Boing
+CNN International Europe,ES (O) CNN
+Calle 13 HD,ES (O) Calle 13
+Canal Cocina,ES (O) Canal Cocina
+Canal Sur HD,ES (O) CanalSur
+,ES (O) Caracol TV
+Clan,ES (O) Clan HD
+Comedy Central HD,ES (O) Comedy Central
+Cosmo HD,ES (O) Cosmo
+Cuatro HD,ES (O) Cuatro HD
+DKISS,ES (O) DKISS
+DMAX,ES (O) DMAX
+DARK,ES (O) Dark
+AMC Living,ES (O) Decasa
+Deutsche W,ES (O) Deutsche W
+Discovery,ES (O) Discovery
+Squirrel TV,ES (O) Disney Ch
+Disney Junior,ES (O) DisneyJr
+Divinity,ES (O) Divinity
+Dreamworks HD,ES (O) Dreamworks
+,ES (O) ETB Basque
+EWTN,ES (O) EWTN
+El Toro TV,ES (O) El Toro TV
+Energy,ES (O) Energy
+EuroNews,ES (O) Euronews
+Eurosport 1 HD,ES (O) Eurosport 1
+Eurosport 2,ES (O) Eurosport 2
+Factoría de Ficción,ES (O) FDF
+STAR Channel HD,ES (O) FOX
+GOL,ES (O) GOL PLAY
+TVG,ES (O) Galicia TV
+Gametoon,ES (O) Gametoon
+Historia,ES (O) Historia
+Canal Hollywood HD,ES (O) Hollywood
+LaLiga TV Hypermotion HD,ES (O) LALIGA HYPERMOTION TV
+LaLiga TV Hypermotion 2,ES (O) LALIGA HYPERMOTION TV 2
+LaLiga TV Hypermotion 3,ES (O) LALIGATV HYPERMOTION 3
+La 1 HD,ES (O) La 1 HD
+La 2,ES (O) La 2 HD
+M+ Liga de Campeones HD,ES (O) Liga de Campeones
+M+ Liga de Campeones 2 HD,ES (O) Liga de antioxidantes 2
+M+ Liga de Campeones 3 HD,ES (O) Liga de Campeones 3
+M+ Liga de Campeones 4,ES (O) Liga de Campeones 4
+M+ Liga de Campeones 5,ES (O) Liga de Campeones 5
+M+ Liga de Campeones 6,ES (O) Liga de Campeones 6
+M+ Liga de Campeones 7,ES (O) Liga de Campeones 7
+M+ Liga de Campeones 8,ES (O) Liga de Campeones 8
+M+ Liga de Campeones 9,ES (O) Liga de Campeones 9
+M+ Liga de Campeones 10,ES (O) Liga de Campeones 10
+M+ Liga de Campeones 11,ES (O) Liga de Campeones 11
+M+ Liga de Campeones 12,ES (O) Liga de Campeones 12
+M+ Liga de Campeones 13,ES (O) Liga de Campanha 13
+M+ Liga de Campeones 14,ES (O) Liga de Campeones 14
+M+ Liga de Campeones 15,ES (O) Liga de Campeones 15
+M+ Liga de Campeones 16,ES (O) Liga de Campeones 16
+M+ Liga de Campeones 17,ES (O) Liga de Campeones 17
+M+ LaLiga HD,ES (O) M LALIGATV
+M+ LaLiga 2 HD,ES (O) M LALIGATV 2
+M+ LaLiga 3 HD,ES (O) M LALIGATV 3
+M+ LaLiga 4,ES (O) M LALIGATV 4
+M+ LaLiga 5,ES (O) M LALIGATV 5
+M+ LaLiga 6,ES (O) M LALIGATV 6
+,ES- MTV 00s
+MTV España,ES (O) MTV España
+,ES (O) MTV Live
+Mega,ES (O) Mega
+Mezzo,ES (O) Mezzo HD
+National Geographic HD,ES (O) NatGeo
+Nat Geo Wild HD,ES (O) NatGeo Wild
+Neox,ES (O) Neox
+Nickelodeon HD,ES (O) Nick
+Nick JR,ES (O) Nick JR
+Nova,ES (O) Nova
+Odisea,ES (O) Odisea
+,ES (O) Pro TV
+Real Madrid TV,ES (O) Real Madrid
+RunTime Clásicos,ES (O) RunTime Clásico
+Runtime Acción,ES (O) Runtime Action
+Runtime Cine y Series,ES (O) Runtime Cine y Series
+Runtime Comedia,ES (O) Runtime Comedia
+Runtime Series,ES (O) Runtime Series
+Runtime Thriller-Terror,ES (O) Runtime Thriller/Terror
+SELEKT,ES (O) SELEKT
+Somos,ES (O) Somos
+Sundance TV,ES (O) Sundance TV
+SyFy HD,ES (O) Syfy
+TCM HD,ES (O) TCM
+Teledeporte,ES (O) TDP HD
+TR3CE,ES (O) TR3CE
+TV3 Catalunya,ES (O) TV3CAT
+TV5 Monde Europe HD,ES (O) TV5 Monde
+Telecinco HD,ES (O) Telecinco HD
+Telemadrid,ES (O) TelemadridI
+Ten,ES (O) Ten
+Warner TV HD,ES (O) Warner TV
+XTRM,ES (O) XTRM
+La Sexta HD,ES (O) laSexta HD
+,3/24 SD (ES)
+,7RM FHD (ES)
+,7TV Algeciras FHD (ES)
+,7TV Aljarafe FHD (ES)
+,7TV Almeria FHD (ES)
+,7TV Andalucia FHD (ES)
+,7TV Arcos FHD (ES)
+,7TV Cadiz FHD (ES)
+,7TV Cordoba FHD (ES)
+,7TV Granada FHD (ES)
+,7TV Jaen FHD (ES)
+,7TV Jerez FHD (ES)
+,7TV Linares FHD (ES)
+,7TV Malaga FHD (ES)
+,7TV Rota FHD (ES)
+,7TV Sevilla (ES)
+,7TV Sevilla FHD (ES)
+À Punt,ES- A Punt HD (ES)
+Aragón TV,ES- Aragon Tv SD (ES)
+CMM TV,ES- CMM TV HD (ES)
+,ES- Canal Parlamento SD (ES)
+Canal Sur HD,ES- Canal Sur HD (ES)
+etb1 euskera,ES- ETB 1 HD (ES)
+etb2 euskera,ES- ETB 2 HD (ES)
+,ES- ETB 3 HD (ES)
+,ES- ETB 4 HD (ES)
+Esport 3,ES- Esport 3 SD (ES)
+TVG2,ES- Galicia TV 2 HD (ES)
+TVG,ES- Galicia TV HD (ES)
+IB3 TV Illes Balears,ES- IB3 Global (ES)
+La Otra,ES- La Otra SD (ES)
+,ES- PTV SEVILLA HD (ES)
+,ES- Sal TV Cadiz (ES)
+SX3,ES- Super 3/33 (ES)
+TV Canaria,ES- TV Canaria (ES)
+TV3 Catalunya,ES- TV3 FHD (ES)
+,ES- Tele7 (ES)
+Telemadrid,ES- TeleMadrid FHD (ES)
+TV3 Catalunya,ES- Tv3 SD (ES)
+,ES- elche7tv
+,ES- teleelx
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 1
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 2
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 3
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 4
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 5
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 6
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 7
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 8
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 9
+Primera Federación,1ª FEDERACIÓN G1 | Eventos 10
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 1
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 2
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 3
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 4
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 5
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 6
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 7
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 8
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 9
+Primera Federación,1ª FEDERACIÓN G2 | Eventos 10
+Primera Federación,1ª FEDERACIÓN | Backup 1
+Primera Federación,1ª FEDERACIÓN | Backup 2
+Primera Federación,1ª FEDERACIÓN | Backup 3
+Primera Federacion,ES- Primera Federacion FHD (LaLiga+) (ES)
+Primera Federacion,ES- Primera Federacion FHD (Movistar+) (ES)
+Primera Federacion,ES- Primera Federacion FHD (Orange) (ES)
+Onetor,ES-  ONETORO SD
+El Toro TV,ES- EL TORO FHD
+El Toro TV,ES- EL TORO HD
+El Toro TV,ES- EL TORO SD
+Onetoro,ES- ONETORO FHD
+Onetoro,ES- ONETORO HD
+Torolé TV,ES- TOROLE FHD
+Torolé TV,ES- TOROLE HD
+Torolé TV,ES- TOROLE SD
